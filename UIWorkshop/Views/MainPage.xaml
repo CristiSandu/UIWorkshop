@@ -54,6 +54,7 @@
 
                     <Label Grid.Column="1" 
                            Text="{Binding Name}" />
+                    
                     <Label Grid.Column="1"
                            Grid.Row="1" Text="{Binding Location}" />
 
